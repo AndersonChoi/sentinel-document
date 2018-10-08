@@ -36,7 +36,8 @@ Rake는 단말 앱(Android, iOS) 이나 웹(WebApp, Hybrid)에서 로그를 전�
 (1) Android
 
 [Rake Android API Usage](https://github.com/skpdi/rake-document/wiki/1.-Rake-Android-(%ED%95%9C%EA%B5%AD%EC%96%B4))  
-[Rake Android Example Project](https://github.com/skpdi/rake-android/tree/master/rake_example)
+[Rake Android Example(Java)](https://github.com/skpdi/rake-android/tree/master/rake_example_java)
+[Rake Android Example(Kotlin)](https://github.com/skpdi/rake-android/tree/master/rake_example_kotlin)
 
 (2) iPhone
 
